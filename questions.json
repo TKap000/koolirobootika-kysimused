@@ -1,0 +1,13 @@
+[
+    {
+      "question": "Mis on Arduino?",
+      "options": ["Robot", "Mikrokontroller", "Sensor", "Tarkvara"],
+      "answer": "Mikrokontroller"
+    },
+    {
+      "question": "Millist andurit kasutatakse kauguse mõõtmiseks?",
+      "options": ["Temperatuuriandur", "Valgusandur", "Ultraheliandur", "Kiirendusandur"],
+      "answer": "Ultraheliandur"
+    }
+  ]
+  
